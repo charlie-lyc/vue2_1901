@@ -5,7 +5,7 @@ $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bas
 $ nvm install 16
 
 ---
-Create project with CLI
+# Create project with CLI
 
 $ npm install -g @vue/cli
 
@@ -16,7 +16,7 @@ $ cd test
 $ npm run serve
 
 ---
-Create project with UI
+# Create project with UI
 
 $ vue ui
 ... Vue Project Manager progresses creating project and building app ...
