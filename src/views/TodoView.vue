@@ -119,7 +119,7 @@
           todos: []
         }
       },
-      created() {
+      created() { // Fetching initial data via API calls // computed() : Deriving data from existing state 
         fetch('https://jsonplaceholder.typicode.com/todos?_limit=10')
           .then(response => response.json())
           .then(data => {
