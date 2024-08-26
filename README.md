@@ -1,4 +1,4 @@
-# Vue.js 2
+# Vue2 & Vue-Router
 
 ## Project setup
 ```
